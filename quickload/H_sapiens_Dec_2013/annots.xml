@@ -1,0 +1,383 @@
+<files>
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/NIST_HiSeq_HG002_Homogeneity-10953946/NHGRI_Illumina300X_AJtrio_novoalign_bams/HG002.GRCh38.300x.bam"
+    title="AshkenazimTrio/son/HiSeq_Illumina300X_novoalign"
+    description="read alignments"
+    background="ffffff"
+    foreground="EA1313"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/NIST_Illumina_2x250bps/novoalign_bams/HG002.GRCh38.2x250.bam"
+    title="AshkenazimTrio/son/Illumina_2x250_novoalign"
+    description="read alignments"
+    background="ffffff"
+    foreground="EA1313"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/NIST_Stanford_Illumina_6kb_matepair/bams/GRCh38/HG002.sorted.bam"
+    title="AshkenazimTrio/son/Illumina_6kb_matepair"
+    description="read alignments"
+    background="ffffff"
+    foreground="EA1313"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/PacBio_CCS_10kb/GRCh38_no_alt_analysis/HG002.10kb.Sequel.pbmm2.GRCh38.whatshap.haplotag.RTG.10x.trio.bam"
+    title="AshkenazimTrio/son/PacBio_CCS_10kb"
+    description="read alignments"
+    background="ffffff"
+    foreground="EA1313"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/PacBio_CCS_15kb/GRCh38_no_alt_analysis/HG002.15kb.Sequel.pbmm2.GRCh38.whatshap.haplotag.RTG.10x.trio.bam"
+    title="AshkenazimTrio/son/PacBio_CCS_15kb"
+    description="read alignments"
+    background="ffffff"
+    foreground="EA1313"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/PacBio_CCS_15kb_20kb_chemistry2/GRCh38/HG002.SequelII.merged_15kb_20kb.GRCh38.duplomap.bam"
+    title="AshkenazimTrio/son/PacBio_CCS_15kb_20kb_chemistry2_duplomap"
+    description="read alignments"
+    background="ffffff"
+    foreground="EA1313"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/PacBio_CCS_15kb_20kb_chemistry2/GRCh38/HG002.SequelII.merged_15kb_20kb.pbmm2.GRCh38.haplotag.10x.bam"
+    title="AshkenazimTrio/son/PacBio_CCS_15kb_20kb_chemistry2_haplotag"
+    description="read alignments"
+    background="ffffff"
+    foreground="EA1313"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/PacBio_MtSinai_NIST/PacBio_minimap2_bam/HG002_PacBio_GRCh38.bam"
+    title="AshkenazimTrio/son/MtSinai_PacBio_minimap2"
+    description="read alignments"
+    background="ffffff"
+    foreground="EA1313"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/PacBio_SequelII_CCS_11kb/HG002_GRCh38/HG002_GRCh38.haplotag.10x.bam"
+    title="AshkenazimTrio/son/PacBio_SequelII_CCS_11kb"
+    description="read alignments"
+    background="ffffff"
+    foreground="EA1313"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/UCSC_Ultralong_OxfordNanopore_Promethion/HG002_GRCh38_ONT-UL_UCSC_20200508.phased.bam"
+    title="AshkenazimTrio/son/UCSC_Ultralong_OxfordNanopore_Promethion"
+    description="read alignments"
+    background="ffffff"
+    foreground="EA1313"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/Ultralong_OxfordNanopore/guppy-V3.4.5/HG002_GRCh38_ONT-UL_GIAB_20200204.bam"
+    title="AshkenazimTrio/son/Ultralong_OxfordNanopore_guppy-V3.4.5"
+    description="read alignments"
+    background="ffffff"
+    foreground="EA1313"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG003_NA24149_father/NIST_HiSeq_HG003_Homogeneity-12389378/NHGRI_Illumina300X_AJtrio_novoalign_bams/HG003.GRCh38.300x.bam"
+    title="AshkenazimTrio/father/HiSeq_Illumina300X_novoalign"
+    description="read alignments"
+    background="ffffff"
+    foreground="F2780D"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG003_NA24149_father/PacBio_MtSinai_NIST/PacBio_minimap2_bam/HG003_PacBio_GRCh38.bam"
+    title="AshkenazimTrio/father/MtSinai_PacBio_minimap2"
+    description="read alignments"
+    background="ffffff"
+    foreground="F2780D"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG003_NA24149_father/UCSC_Ultralong_OxfordNanopore_Promethion/HG003_GRCh38_ONT-UL_UCSC_20200508.bam"
+    title="AshkenazimTrio/father/UCSC_Ultralong_OxfordNanopore_Promethion"
+    description="read alignments"
+    background="ffffff"
+    foreground="F2780D"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG003_NA24149_father/NIST_Illumina_2x250bps/novoalign_bams/HG003.GRCh38.2x250.bam"
+    title="AshkenazimTrio/father/Illumina_2x250_novoalign"
+    description="read alignments"
+    background="ffffff"
+    foreground="F2780D"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG003_NA24149_father/NIST_Stanford_Illumina_6kb_matepair/bams/GRCh38/HG003.sorted.bam"
+    title="AshkenazimTrio/father/Illumina_6kb_matepair"
+    description="read alignments"
+    background="ffffff"
+    foreground="F2780D"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG003_NA24149_father/PacBio_CCS_15kb_20kb_chemistry2/GRCh38/HG003.GRCh38.consensusalignments.bam"
+    title="AshkenazimTrio/father/PacBio_CCS_15kb_20kb_chemistry2_consensus"
+    description="read alignments"
+    background="ffffff"
+    foreground="F2780D"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG004_NA24143_mother/NIST_HiSeq_HG004_Homogeneity-14572558/NHGRI_Illumina300X_AJtrio_novoalign_bams/HG004.GRCh38.300x.bam"
+    title="AshkenazimTrio/mother/HiSeq_Illumina300X_novoalign"
+    description="read alignments"
+    background="ffffff"
+    foreground="38CF13"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG004_NA24143_mother/NIST_Illumina_2x250bps/novoalign_bams/HG004.GRCh38.2x250.bam"
+    title="AshkenazimTrio/mother/Illumina_2x250_novoalign"
+    description="read alignments"
+    background="ffffff"
+    foreground="38CF13"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG004_NA24143_mother/NIST_Stanford_Illumina_6kb_matepair/bams/GRCh38/HG004.sorted.bam"
+    title="AshkenazimTrio/mother/Illumina_6kb_matepair"
+    description="read alignments"
+    background="ffffff"
+    foreground="38CF13"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG004_NA24143_mother/PacBio_MtSinai_NIST/PacBio_minimap2_bam/HG004_PacBio_GRCh38.bam"
+    title="AshkenazimTrio/mother/MtSinai_PacBio_minimap2"
+    description="read alignments"
+    background="ffffff"
+    foreground="38CF13"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG004_NA24143_mother/UCSC_Ultralong_OxfordNanopore_Promethion/HG004_GRCh38_ONT-UL_UCSC_20200508.bam"
+    title="AshkenazimTrio/mother/UCSC_Ultralong_OxfordNanopore_Promethion"
+    description="read alignments"
+    background="ffffff"
+    foreground="38CF13"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG004_NA24143_mother/PacBio_CCS_15kb_20kb_chemistry2/GRCh38/HG004.GRCh38.consensusalignments.bam"
+    title="AshkenazimTrio/mother/PacBio_CCS_15kb_20kb_chemistry2_consensus"
+    description="read alignments"
+    background="ffffff"
+    foreground="38CF13"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/NHGRI_Illumina300X_Chinesetrio_novoalign_bams/HG005.GRCh38_full_plus_hs38d1_analysis_set_minus_alts.300x.bam"
+    title="ChineseTrio/son/HiSeq_Illumina300X_novoalign"
+    description="read alignments"
+    background="ffffff"
+    foreground="13CFC6"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/ChineseTrio/HG005_NA24631_son/MtSinai_PacBio/PacBio_minimap2_bam/HG005_PacBio_GRCh38.bam"
+    title="ChineseTrio/son/MtSinai_PacBio_minimap2"
+    description="read alignments"
+    background="ffffff"
+    foreground="13CFC6"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/ChineseTrio/HG005_NA24631_son/NIST_Stanford_Illumina_6kb_matepair/bams/GRCh38/HG005.sorted.bam"
+    title="ChineseTrio/son/Illumina_6kb_matepair"
+    description="read alignments"
+    background="ffffff"
+    foreground="13CFC6"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/ChineseTrio/HG005_NA24631_son/PacBio_SequelII_CCS_11kb/HG005_GRCh38/HG005_GRCh38.haplotag.10x.bam"
+    title="ChineseTrio/son/PacBio_SequelII_CCS_11kb"
+    description="read alignments"
+    background="ffffff"
+    foreground="13CFC6"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/ChineseTrio/HG006_NA24694-huCA017E_father/NA24694_Father_HiSeq100x/NHGRI_Illumina100X_Chinesetrio_novoalign_bams/HG006.GRCh38_full_plus_hs38d1_analysis_set_minus_alts.100x.bam"
+    title="ChineseTrio/father/HiSeq_Illumina100X_novoalign"
+    description="read alignments"
+    background="ffffff"
+    foreground="1388CF"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/ChineseTrio/HG006_NA24694-huCA017E_father/NIST_Stanford_Illumina_6kb_matepair/bams/GRCh38/HG006.sorted.bam"
+    title="ChineseTrio/father/Illumina_6kb_matepair"
+    description="read alignments"
+    background="ffffff"
+    foreground="1388CF"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/ChineseTrio/HG006_NA24694-huCA017E_father/PacBio_MtSinai/PacBio_minimap2_bam/HG006_PacBio_GRCh38.bam"
+    title="ChineseTrio/father/MtSinai_PacBio_minimap2"
+    description="read alignments"
+    background="ffffff"
+    foreground="1388CF"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/ChineseTrio/HG007_NA24695-hu38168_mother/NA24695_Mother_HiSeq100x/NHGRI_Illumina100X_Chinesetrio_novoalign_bams/HG007.GRCh38_full_plus_hs38d1_analysis_set_minus_alts.100x.bam"
+    title="ChineseTrio/mother/HiSeq_Illumina100X_novoalign"
+    description="read alignments"
+    background="ffffff"
+    foreground="B013CF"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/ChineseTrio/HG007_NA24695-hu38168_mother/NIST_Stanford_Illumina_6kb_matepair/bams/GRCh38/HG007.sorted.bam"
+    title="ChineseTrio/mother/Illumina_6kb_matepair"
+    description="read alignments"
+    background="ffffff"
+    foreground="B013CF"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/ChineseTrio/HG007_NA24695-hu38168_mother/PacBio_MtSinai/PacBio_minimap2_bam/HG007_PacBio_GRCh38.bam"
+    title="ChineseTrio/mother/MtSinai_PacBio_minimap2"
+    description="read alignments"
+    background="ffffff"
+    foreground="B013CF"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/10Xgenomics_ChromiumGenome_LongRanger2.0_06202016/NA12878_GRCh38.bam"
+    title="NA12878/10Xgenomics_ChromiumGenome_LongRanger2.0"
+    description="read alignments"
+    background="ffffff"
+    foreground="CF1390"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/10Xgenomics_ChromiumGenome_LongRanger2.1_09302016/NA12878_GRCh38/NA12878_GRCh38_phased_possorted_bam.bam"
+    title="NA12878/10Xgenomics_ChromiumGenome_LongRanger2.1"
+    description="read alignments"
+    background="ffffff"
+    foreground="CF1390"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/NIST_NA12878_HG001_HiSeq_300x/NHGRI_Illumina300X_novoalign_bams/HG001.GRCh38_full_plus_hs38d1_analysis_set_minus_alts.300x.bam"
+    title="NA12878/HiSeq_Illumina300X_novoalign"
+    description="read alignments"
+    background="ffffff"
+    foreground="CF1390"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/PacBio_SequelII_CCS_11kb/HG001_GRCh38/HG001_GRCh38.haplotag.RTG.trio.bam"
+    title="NA12878/PacBio_SequelII_CCS_11kb"
+    description="read alignments"
+    background="ffffff"
+    foreground="CF1390"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+  <file
+    name="ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/Ultralong_OxfordNanopore/NA12878-minion-ul_GRCh38.bam"
+    title="NA12878/Ultralong_OxfordNanopore"
+    description="read alignments"
+    background="ffffff"
+    foreground="CF1390"
+    max_depth="10"
+    show2tracks="false"
+    direction_type="arrow"
+  />
+</files>
