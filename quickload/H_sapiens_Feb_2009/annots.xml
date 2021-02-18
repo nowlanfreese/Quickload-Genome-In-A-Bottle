@@ -30,7 +30,7 @@
     direction_type="arrow"
   />
   <file
-    name="http://giab.s3.amazonaws.com/data/AshkenazimTrio/HG002_NA24385_son/NIST_Stanford_Illumina_6kb_matepair/bams/HG002.mate_pair.bam"
+    name="http://giab.s3.amazonaws.com/data/AshkenazimTrio/HG002_NA24385_son/NIST_Stanford_Illumina_6kb_matepair/bams/HG002.mate_pair.sorted.bam"
     title="AshkenazimTrio/son/Illumina_6kb_matepair"
     description="read alignments"
     background="ffffff"
